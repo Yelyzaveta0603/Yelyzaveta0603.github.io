@@ -1,0 +1,18 @@
+body {
+    margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+    background: url(home.jpg); /* Параметры фона */
+    background-size: cover; /* Фон занимает всю доступную площадь */
+   }
+  p {
+    margin-top: 5em; /* Отступ сверху */
+    margin-bottom: 1em; /* Отступ снизу */
+   }
+  h1 {
+margin-top: 1em; /* Отступ сверху */
+    margin-bottom: 1em; /* Отступ снизу */
+}
+p1 {
+color: white;
+font-size:30px;
+}

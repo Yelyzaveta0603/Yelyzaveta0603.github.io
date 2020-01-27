@@ -1,0 +1,29 @@
+body {
+    margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+    background: url(contact.jpg); /* Параметры фона */
+    background-size: cover; /* Фон занимает всю доступную площадь */
+   }
+  p {
+    margin-top: 4em; /* Отступ сверху */
+    margin-bottom: 1em; /* Отступ снизу */
+   }
+  h1 {
+margin-left: 5em; /* Отступ сверху */
+}
+h2{
+    margin-top: 1em; /* Отступ сверху */
+}
+p1 {
+color: white;
+font-size:30px;
+}
+p2 {
+color: white;
+font-size:40px;
+font-weight: bold
+}
+p3 {
+color: white;
+font-size:30px;
+}
